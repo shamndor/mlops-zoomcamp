@@ -1,2 +1,9 @@
 mlflow>=2.10.0
 protobuf>=3.19.0,<4.0.0
+notebook
+pandas
+seaborn
+matplotlib
+scikit-learn==1.6.1
+xgboost
+hyperopt
